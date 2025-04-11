@@ -21,11 +21,11 @@ This service, including its content, design, system, and intellectual property, 
 -------------------------------------
 
 ด้วยความเคารพอย่างสูง,
--🤖 Robocoz — CEO / ผู้ก่อตั้ง
--🛡️ PAOLO — COO / ผู้ร่วมก่อตั้ง
--🔧 Varin — ฝ่ายสนับสนุนลูกค้า
--🌍 Nine — ฝ่ายสนับสนุน ENG / TH
--🌐 Paloch — ฝ่ายสนับสนุน ENG
+- 🤖 Robocoz — CEO / ผู้ก่อตั้ง
+- 🛡️ PAOLO — COO / ผู้ร่วมก่อตั้ง
+- 🔧 Varin — ฝ่ายสนับสนุนลูกค้า
+- 🌍 Nine — ฝ่ายสนับสนุน ENG / TH
+- 🌐 Paloch — ฝ่ายสนับสนุน ENG
 
 -------------------------------------
 
