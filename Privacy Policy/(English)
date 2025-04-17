@@ -1,52 +1,55 @@
-VARIN
-Varin Policies
+# Varin Policies (English)
+
 Our policies and practices to ensure the best service experience.
 
-*** We will delete your content after 30 days of each retention period. ***
+> ⚠️ **We automatically delete your stored message content after 30 days of inactivity.**
 
-Privacy Policy
-At Varin, we place the utmost importance on user privacy. All information you provide will be securely stored and used solely for the purpose of providing services.
+---
 
-Our team will not disclose user information or details to third parties, except in the following cases:
+## 🔐 Privacy Policy
 
-When requested by the server administrator for audit purposes.
+At Varin, we place the utmost importance on user privacy. All information provided by users is securely stored and used exclusively for service-related purposes.
 
-When requested by Discord Support.
+We **never** share or disclose user data to any third party, except under the following strict conditions:
+- When requested by the server administrator for audit or moderation purposes
+- When formally requested by Discord Support
+- When required by applicable law, such as legal investigations or police orders
 
-When required by legal authorities or law enforcement.
+---
 
-Information We Collect
-Information provided during registration
+## 📊 Information We Collect
 
-Service usage data
+We only collect the following data for technical and operational purposes:
+- Information submitted through commands or interactions
+- Service usage data
+- Technical metadata such as:
+  - User ID
+  - Server ID
+  - Channel ID
+  - Messages sent in designated AI or bot channels
 
-Technical data such as:
+> All collected messages are stored locally and **automatically deleted after 30 days** if unused.
 
-User ID
+---
 
-Server ID
+## ✅ Usage Policy
 
-Channel ID
-
-Messages in the bot's chat rooms
-
-Usage Policy
 Users of Varin must comply with the following rules:
+- Do not use the service for illegal or abusive activities
+- Do not attempt to manipulate or misuse the system
+- Do not spam or send inappropriate or harmful content
+- Do not violate copyright or intellectual property laws
 
-Do not use the service for illegal activities
+Violations may result in service restrictions or account suspension **without prior notice**.
 
-Do not attempt to use or command the bot in a harmful or abusive manner
+---
 
-Do not send spam or inappropriate content
+## 💰 Refund Policy
 
-Do not violate copyrights or the intellectual property rights of others
+For paid services, Varin offers the following refund policy:
+- Refund requests are accepted **within 7 days** of payment
+- A valid reason and **proof of payment** must be provided
+- Refunds will be processed within 3 business days upon approval
 
-Violating these policies may result in account suspension without prior notice.
-
-Refund Policy
-For paid services, Varin has the following refund policy:
-
-Refunds can be requested within 7 days after payment
-
-Proof of payment and a valid reason must be provided
-
+- Best regards,
+nine_sano.
