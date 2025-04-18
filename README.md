@@ -1,9 +1,8 @@
 <h1 align="center">
 
 ----------------------------------------
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines="🧡;Coming soon autonex security" alt="Typing SVG" />
-</p>
+
+🧡Coming soon autonex security
 
 ----------------------------------------
 
