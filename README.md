@@ -8,11 +8,12 @@
 
 📢 ประกาศจากทีมงาน Vesper
 
-----
+-------------------------------------
 
 <img src="https://img5.pic.in.th/file/secure-sv1/Orizon-x-Rafafanp.png" alt="Orizon x Rafafanp" width="500">
 
-----
+
+-------------------------------------
 
 🌐 Copyright Notice | ประกาศลิขสิทธิ์
 © 2025 Vesper. All rights reserved.
